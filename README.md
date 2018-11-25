@@ -1,10 +1,8 @@
 # Java-Swing-demos 
 It's simple demo for Java-Swing Basics that contains different examples for Swing Components like
 
-
-
 1: Animation	First 
-2: First commit	34 seconds ago
+2: BackGraoundImage
 3: CheckBox	
 4: CreateGUIFromTooles	
 5: CstomButton
